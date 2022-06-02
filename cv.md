@@ -15,3 +15,9 @@ I have 2 years of experience working as a Computer Science teacher and after mat
 * and also have basic knowledge of VUE framework.
 I don't have commercial working experience as a Frontend developer.
 I practiced English during my stay in USA as an exchange student.
+##### Example of code:
+```
+function booleanToString(b){
+  return b.toString();
+}
+```
