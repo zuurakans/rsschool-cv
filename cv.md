@@ -1,25 +1,40 @@
-## Zuurakan Saparbaieva
+# Zuurakan Saparbaieva
 Computer Science Teacher and Junior Frontend Developer
 =======
 ![Alt-avatar](/img/zuurakan.jpg "Photo of me")
-**E-mail:** zuurakan.saparbaieva.ch@gmail.com
+### Contacts:
+
+* **E-mail:** zuurakan.saparbaieva.ch@gmail.com
+* **Telephone:** +996 700 12 44 47
+* **Telegram:** zuurakans
 
 
-**Telephone:** +996 700 12 44 47
+## Summary
+I'm Computing teacher with two years of experience in primary school. Interested in web development and enjoy coding a lot! I consider myself a responsible person with a huge desire to enhance my skills in web development.
 
-
-### Summary
-I have 2 years of experience working as a Computer Science teacher and after maternity leave I decided to become Frontend developer.My skills are:
+Alumna of Erasmus Exchange and Summer Work and Travel programs. Have experience working in an international environment.
+## Skills:
 * HTML
 * CSS
 * JS
 * Git
 * and also have basic knowledge of VUE framework.
-I don't have commercial working experience as a Frontend developer.
-I practiced English during my stay in USA as an exchange student.
+
+## Education
+* **Bachelor, Anadolu university, Turkey
+   -Education faculty, Computer Science and Instructional Technology
+
+
+## Languages
+* __Kyrgyz__ - native speaker
+* __English__- advanced
+* __Russian__- advanced
+* __Turkish__- advanced
+
 ##### Example of code:
 ```
 function booleanToString(b){
   return b.toString();
 }
 ```
+
