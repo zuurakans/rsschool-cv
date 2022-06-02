@@ -7,7 +7,7 @@ Telephone:+996 700 12 44 47
 
 
 ### Summary
-I have 2 years of experience working as a Computer Science teacher and after maternity leave I decided to become Frontend developer.My skills are:
+I have 2 years of experience working as a Computer Science teacher and after maternity leave I decided to become Frontend developer. My skills are:
 * HTML
 * CSS
 * JS
