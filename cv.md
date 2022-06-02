@@ -22,7 +22,7 @@ Alumna of Erasmus Exchange and Summer Work and Travel programs. Have experience 
 * and also have basic knowledge of VUE framework.
 
 ## Education
-* **Bachelor, Anadolu university, Turkey
+* **Bachelor, Anadolu university, Turkey**
    -Education faculty, Computer Science and Instructional Technology
 
 
