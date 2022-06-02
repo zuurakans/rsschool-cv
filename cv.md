@@ -1,7 +1,8 @@
 # Zuurakan Saparbaieva
 Computer Science Teacher and Junior Frontend Developer
-=======
-![Alt-avatar](/img/zuurakan.jpg "Photo of me")
+
+- - -
+
 ### Contacts:
 
 * **E-mail:** zuurakan.saparbaieva.ch@gmail.com
