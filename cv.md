@@ -23,6 +23,8 @@ Alumna of Erasmus Exchange and Summer Work and Travel programs. Have experience 
 
 ## Education
 * **Bachelor, Anadolu university, Turkey**
+
+
    -Education faculty, Computer Science and Instructional Technology
 
 
@@ -34,8 +36,8 @@ Alumna of Erasmus Exchange and Summer Work and Travel programs. Have experience 
 
 ##### Example of code:
 ```
-function booleanToString(b){
-  return b.toString();
+function sum(a,b){
+  return a+b;
 }
 ```
 
