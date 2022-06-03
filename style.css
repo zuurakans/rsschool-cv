@@ -13,7 +13,7 @@ body{
   
 }
 .left__side {
-  max-width:450px;
+  max-width:45%;
   background-color: #fff;
 }
 .left__side-img{
@@ -25,7 +25,7 @@ body{
   text-align: center;
 }
 .right__side {
-  max-width:650px;
+  max-width:65%;
 }
 .row{
   display:flex;
